@@ -1,0 +1,3 @@
+(library
+ (name pamlCore)
+ (public_name paml.core))

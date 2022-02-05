@@ -1,0 +1,4 @@
+(library
+ (name pamlExtra)
+ (public_name paml.extra)
+ (libraries paml.core paml.strings))

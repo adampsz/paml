@@ -1,0 +1,8 @@
+(executables
+ (names calc hello json prolog url)
+ (libraries paml))
+
+(alias
+ (name all)
+ (deps
+  (glob_files *.exe)))

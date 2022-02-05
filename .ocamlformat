@@ -1,0 +1,7 @@
+profile = janestreet
+
+parse-docstrings
+wrap-comments
+
+exp-grouping = preserve
+break-separators = after
