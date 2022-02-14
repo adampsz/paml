@@ -1,4 +1,4 @@
-# Paml
+# [Paml](https://github.com/adampsz/paml)
 
 ## What is it?
 
